@@ -1,0 +1,27 @@
+{
+  "path": "svg",
+  "items": [
+    { "name": "apply-confirm", "file": "apply-confirm.svg" },
+    { "name": "apply", "file": "apply.svg" },
+    { "name": "cellphone", "file": "cellphone.svg" },
+    { "name": "data-receipt", "file": "data-receipt.svg" },
+    { "name": "dentist-bill", "file": "dentist-bill.svg" },
+    { "name": "donation-info", "file": "donation-info.svg" },
+    { "name": "donation-manage", "file": "donation-manage.svg" },
+    { "name": "drug-bill", "file": "drug-bill.svg" },
+    { "name": "hospital", "file": "hospital.svg" },
+    { "name": "lease-check", "file": "lease-check.svg" },
+    { "name": "main-service", "file": "main-service.svg" },
+    { "name": "membership-honor", "file": "membership-honor.svg" },
+    { "name": "new-loan", "file": "new-loan.svg" },
+    { "name": "paperless", "file": "paperless.svg" },
+    { "name": "personal-care", "file": "personal-care.svg" },
+    { "name": "refund", "file": "refund.svg" },
+    { "name": "solo-bizService", "file": "solo-bizService.svg" },
+    { "name": "staff-bg-circle-gray", "file": "staff-bg-circle-gray.svg" },
+    { "name": "tc-category-1", "file": "tc-category-1.svg" },
+    { "name": "tc-category-3", "file": "tc-category-3.svg" },
+    { "name": "case", "file": "case.svg" },
+    { "name": "winner", "file": "winner.svg" }
+  ]
+}
